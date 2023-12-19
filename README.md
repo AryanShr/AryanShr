@@ -10,12 +10,16 @@ Diving into the uncharted realms of deep learning, with a quest for mastering Re
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanShr&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanShr&show_icons=true&rank_icon=github&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AryanShr&theme=radical)](https://github.com/AryanShr)
+
+## 💻 Languages Spoken in Code
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanShr&theme=radical&hide_progress=true&langs_count=12)
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Aryan Shrivastav](https://www.linkedin.com/in/aryanshrivastav/)
-- Email: [](aryanshrivastav603@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryanshrivastav/)
+- Email: [![Email](https://img.shields.io/badge/Email-Aryan-red?style=flat-square&logo=gmail)](mailto:aryanshrivastav603@gmail.com)
 
 <!--
 **AryanShr/AryanShr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
